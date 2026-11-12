@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html>
+  <head> <link rel="stylesheet" href="new.css">
+  </head>
+  <body>
+    <h1> Alana's Resume</h1>
+    <h2>Educational accomplishments</h2>
+    <ul>
+      <li> Professor Smith from Boston Unversity stated, "Alana is an insightful and diligent marketer. Her ability to analyze market trends and adapt strategies is remarkable”,</li>
+      <li>Sarah Johnson from Trendsetters Agency remarked, “Alana’s creativity and dedication were invaluable to our social media campaigns. She’s a team player who consistently delivers results”,</li>
+      <li>Tom Harrison from Fashion Forward Boutique added, “Alana has a natural talent for understanding customer needs. Her exceptional interpersonal skills have made a lasting impact on our team and our customers.” </li>
+    </ul>
+    <img src="BU.jpg" alt="Image description">
+    <hr>
+    <h2>Certifications &amp awards</h2>
+    <p> These are my certs and awards.</p>
+    <ul>
+      <li>Employee of the Month</li>
+      <li>Certification as a Digital Marketing Professional from the Digital Marketing Institute</li>
+      <li>Dean's list at Boston Uversity for four semesters (Fall 2910,Spring 2020, Fall 2020, and Spring 2021)
+    </ul>
+    <hr>
+    <h2>Work experience</h2>
+
+    <ul><li> June &amp August 2021: Social Media Intern at Trendsetters Agency</li><li>September 2020-May 2021: Retail Sales Associte at Fashion Forward</li><li> June-August 2020: Customer Service Representative at HelpDesk Inc.</li></ul>
+    <hr>
+    <h2>Accomplishments on Projects &amp Campaigns</h2>
+    <ul>
+
+      <li>Grew company's presence on Instagram &amp Facebook</li>
+      <li>boosted overall social media engagemnt</li>
+      <li>Led Instagram Growth Campaign project that increased followee engagment by 30% and gained 2,000 new followers in 2 months
+
+        <hr> 
+
+        <h6> Contact information</h6>
+          <li>Email: alana.marketingpro@gmail.com</li>
+          <li>Linkedln: linkedin.com/alana-marketingpro</li>
+          </body>
+      </html>
